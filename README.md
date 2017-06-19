@@ -1,8 +1,11 @@
 # Important-Data-Files
 
-Contributor:
-Dipendu Chanda- Graduate Student of Business Analytics at the Naveen Jindal School of Management, UT Dallas
-Upender Subramanian- Assistant Professor of Marketing at the Naveen Jindal School of Management, UT Dallas
+Contributors:
+
+# Dipendu Chanda 
+(MS- Business Analytics| MBA- Marketing)
+# Upender Subramanian 
+(Assistant Professor of Marketing at the Naveen Jindal School of Management, UT Dallas)
 
 
 Notes: 
