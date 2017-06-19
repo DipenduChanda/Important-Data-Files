@@ -2,10 +2,10 @@
 
 Contributors:
 
-# Dipendu Chanda 
-(MS- Business Analytics| MBA- Marketing)
-# Upender Subramanian 
-(Assistant Professor of Marketing at the Naveen Jindal School of Management, UT Dallas)
+1. Dipendu Chanda 
+MS- Business Analytics| MBA- Marketing
+2. Upender Subramanian 
+Assistant Professor of Marketing at the Naveen Jindal School of Management, UT Dallas
 
 
 Notes: 
@@ -13,3 +13,4 @@ Notes:
 This is useful if you are going to do analysis on zipcode level or to visualise your data on a geographical chart.
 
 2. US postal code CSV file can be used if you want to map zipcode to state level or do some analysis on a higher level.
+
